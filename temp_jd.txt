@@ -1,0 +1,10 @@
+Extracted keywords from resumes and job descriptions, calculated a compatibility score, and identified missing
+skills.
+Provided actionable suggestions to optimize resumes for better ATS performance and role alignment.
+Built an interactive user interface with Streamlit for easy use and deployed the project on GitHub.
+• Tools Used: Python, Streamlit, spaCy, fuzzywuzzy, PyPDF2
+Technologies
+Languages:Python (Proficient), C++ (Proficient), Java (Beginner), SQL (Intermediate)
+Frameworks:Streamlit, Git, GitHub, Pandas, NumPy, FuzzyWuzzy, PDFPlumber, Scikit-learn (basic), .NET (basic),
+Microsoft SQL Server
+Tools and Platforms:Jupyter Notebook, VS Code, GitHub, MySQL, Superset (Application Platform)

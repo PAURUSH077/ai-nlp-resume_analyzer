@@ -1,0 +1,20 @@
+Paurush Mishra
+Bengaluru,BLR | paurushrmishra@gmail.com | +91 8010890425
+linkedin.com/in/paurush-mishra-m | github.com/PAURUSH077
+Software Engineer | Python Developer | C++ Developer
+Final-year BE student in Information Science and Engineering with a strong foundation in software development
+and backend engineering. Skilled in Python, Java, and C++ with experience in object-oriented programming,
+data structures, and algorithms. Recently completed a full stack project involving backend development using
+Python. Comfortable with Git and version control, and eager to contribute to real-world software solutions in a
+professional environment.
+Education
+Sir M. Visvesvaraya Institute of Technology, Bachelor of Engineering in
+Information Science and Engineering (ISE)
+Sept 2000 – May 2005
+• GPA: 8.23/10.0 ()
+• Coursework: Computer Architecture, Comparison of Learning Algorithms, Computational Theory
+Projects
+AI Resume Analyzer with Job Description Matching
+github.com/name/repo
+• Developed a resume analysis tool that compares a user’s resume with job descriptions using NLP and fuzzy
+matching techniques.
