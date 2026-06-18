@@ -23,25 +23,6 @@ scikit-learn / Transformers – for vectorization & similarity checks (if applic
 
 Streamlit / Tkinter (Optional UI layer)
 
-📁 Project Structure
-resume-analyzer/
-├── __pycache__/                 # Python cache files
-├── images/                     # UI or output screenshots
-│   ├── Screenshot 2025-06-15 031820.png
-│   ├── Screenshot 2025-06-15 031906.png
-│   └── Screenshot 2025-06-15 031920.png
-├── app.py                      # Main entry point (Streamlit or Flask)
-├── ats_checker.py              # Checks resume against ATS-friendly rules
-├── jd_parser.py                # Extracts key info from job description
-├── job_description.txt         # Sample job description input
-├── match_engine.py             # Core logic for matching resume to job description
-├── readme.md.txt               # Backup readme or raw content
-├── resume_parser.py            # Parses resumes (.pdf, .docx)
-├── sample_resume.docx          # Sample resume for testing
-├── temp_jd.txt                 # Cleaned job description (intermediate)
-├── temp_resume.pdf             # Resume file input
-├── temp_resume_cleaned.txt     # Preprocessed resume text
-├── .gitattributes              # Git config file
 
 🛠️ Tech Stack
 Python 3.8+
